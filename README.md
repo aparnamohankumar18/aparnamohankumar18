@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+I'm Aparna, an ML practitioner who turns messy, real-world data into models and tools people can actually use. I work in Python, machine learning, and NLP, and back every model with careful analysis in SQL and Tableau. I'm happiest where research meets implementation: daily AI briefing, forming a hypothesis, and testing until the numbers make sense.
+
+My projects so far span healthcare AI, demand forecasting, compiling Big Data, public-health analytics, and recommendation systems. In DermaFaceAI, I handled data cleaning with care, and in Dentascribe(AI Dental Voice Assistant) and a Dental Cavity diagnosis assistant (A YOLO model that can read dental X-rays efficiently). For my hotel booking project, I combined 119k bookings with US economic indicators to study how the wider economy shapes travel behaviour. In my COVID-19 analysis, I explored CDC mortality data by vaccination status and age group and turned it into clear visuals. With MovieLens, I worked on combining data from multiple sources at a scale where efficiency matters.
+
+I also build practical tools from web scrapers to churn and claims analysis and I care about getting metrics right. I treat every project like a product: clean code, a clear READMe and results someone else can reproduce. I enjoy explaining findings to non-technical audiences, because a model nobody understands rarely gets used. Right now I'm exploring modelling from video.
+
+If you're working on AI, NLP, or data problems, let's connect.
 <!--
 **aparnamohankumar18/aparnamohankumar18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
